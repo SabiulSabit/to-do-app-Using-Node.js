@@ -1,6 +1,6 @@
-# This is a Basic __To-Do App useing Node.js__
+This is a Basic To-Do App useing Node.js
 
-Live: [todo-app](https://todoappsabitthebot.herokuapp.com/)
+Live: (https://todoappsabitthebot.herokuapp.com/)
 
 What action user can do: 
          1. Add item
