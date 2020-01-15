@@ -1,3 +1,7 @@
+# Project Title
+
+One Paragraph of project description goes here
+
 This is a Basic To-Do App useing Node.js
 
 Live: (https://todoappsabitthebot.herokuapp.com/)
